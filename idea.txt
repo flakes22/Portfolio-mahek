@@ -1,0 +1,8 @@
+scroll website
+divided into sections
+nav bar on top
+About yourself in a paragraph
+• Include your profile picture along with some local pictures from your birthplace
+• Write about your education background, schools you studied, achievements
+• Write the technical skills you have based on your level of expertise
+• Include a CV as a PDF in a hyperlink 

@@ -1,0 +1,11 @@
+<!-- Include Vivus -->
+<script src="https://cdn.jsdelivr.net/npm/vivus@0.4.6/dist/vivus.min.js"></script>
+
+<!-- Your SVG -->
+<object id="my-svg" type="image/svg+xml" data="text-logo.svg"></object>
+
+<script>
+  new Vivus('my-svg', { type: 'delayed', duration: 200 }, function () {
+    console.log('Animation finished!');
+  });
+</script>
